@@ -182,6 +182,3 @@ npm run build && npm run deploy
 
 MIT — free to use and modify.
 
----
-
-Built with ❤️ by [Amelia AI](https://github.com/Jaiprathap26)
